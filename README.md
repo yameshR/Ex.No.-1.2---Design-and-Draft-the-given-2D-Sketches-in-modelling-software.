@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![WhatsApp Image 2023-09-19 at 08 40 08](https://github.com/yameshR/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/119389433/ff8fcd54-6b3e-442d-98aa-170b208dea8f)
+![image](https://github.com/yameshR/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/119389433/4a19656d-abce-4d76-ae4e-79ce75294549)
 
  
  ## RESULT
